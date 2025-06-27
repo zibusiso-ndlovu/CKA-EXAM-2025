@@ -3,6 +3,11 @@
 ## Prerequisites
 Minikube 
 
+## cri-dockerd repo
+
+https://github.com/Mirantis/cri-dockerd/releases/download/v0.3.1/cri-dockerd_0.3.1.3-0.ubuntu-focal_amd64.deb
+
+
 ## Usage
 
 ```sh
